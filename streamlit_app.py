@@ -3,8 +3,8 @@ import numpy as np
 import pandas as pd
 import pickle
 import time
-from matplotlib import pyplot as plt
-from matplotlib.ticker import Funcformatter
+#from matplotlib import pyplot as plt
+#from matplotlib.ticker import Funcformatter
 import seaborn as sns
 
 st.set_page_config(layout="wide")
