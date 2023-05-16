@@ -9,7 +9,7 @@ import time
 
 st.set_page_config(layout="wide")
 
-df_database = pd.read_csv("./data/outputCSV.csv")
+#df_database = pd.read_csv("./data/outputCSV.csv")
 
 ####################
 ### INTRODUCTION ###
